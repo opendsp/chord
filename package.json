@@ -1,0 +1,19 @@
+{
+  "name": "chord",
+  "version": "2.0.0",
+  "description": "chord player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stagas/chord.git"
+  },
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagas/chord/issues"
+  },
+  "homepage": "https://github.com/stagas/chord#readme"
+}
